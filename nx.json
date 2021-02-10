@@ -1,5 +1,5 @@
 {
-  "npmScope": "nx-starter",
+  "npmScope": "nx-web-starter",
   "affected": {
     "defaultBase": "main"
   },
