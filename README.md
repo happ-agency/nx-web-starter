@@ -14,7 +14,7 @@
    > 1. `APP_NAME` - name of the application
 
 ## Related Projects:
-1. [nx-starter](https://github.com/happ-agency/nx)
+1. [nx-starter](https://github.com/happ-agency/nx-starter)
 2. [nx-nestjs-starter](https://github.com/happ-agency/nx-nestjs-starter)
 3. [nx-angular-starter](https://github.com/happ-agency/nx-angular-starter)
 4. [nx-angular-nestjs-starter](https://github.com/happ-agency/nx-angular-nestjs-starter)
