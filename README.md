@@ -12,3 +12,9 @@
    > 2. `--style=scss` - default styles
 3. To create a `library` run: `npx nx g @nrwl/web:lib LIB_NAME`
    > 1. `APP_NAME` - name of the application
+
+## Related Projects:
+1. [nx-starter](https://github.com/happ-agency/nx)
+2. [nx-nestjs-starter](https://github.com/happ-agency/nx-nestjs-starter)
+3. [nx-angular-starter](https://github.com/happ-agency/nx-angular-starter)
+4. [nx-angular-nestjs-starter](https://github.com/happ-agency/nx-angular-nestjs-starter)
